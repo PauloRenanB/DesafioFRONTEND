@@ -1,4 +1,4 @@
-# DesafioFrrontEnd
+# DesafioFrontEnd
 Desafio para disciplina Tecnologia para Front End
 
 Desafio escolhido:
